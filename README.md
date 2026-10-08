@@ -1,5 +1,5 @@
 # Hasil Modisikasi Studi Kasus 2
-- Nilai P = 13 (Ganjil)
+Nilai P = 13 (Ganjil)
 Jika P GENAP: jenis kegiatan = "BELMAWA", dokumen = 4, peringkat juara = (P mod 3) + 1. 
 Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan = 1 (Lolos).
 
