@@ -1,8 +1,6 @@
 # Hasil Modisikasi Studi Kasus 2
-Nilai P = 13 (Ganjil)
-
+- Nilai P = 13 (Ganjil)
 Jika P GENAP: jenis kegiatan = "BELMAWA", dokumen = 4, peringkat juara = (P mod 3) + 1. 
-
 Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan = 1 (Lolos).
 
 - Jenis Kegiatan = PKM
@@ -11,7 +9,7 @@ Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan
 
 # Hasil Pengujian Studi Kasus 2
 
-## Identitas Pemilik repository
+## Identitas Pemilik Repository
 
 - Nama : Made Satwika Adinata
 - NIM : 264107020166
@@ -28,7 +26,7 @@ Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan
 
 ## Hasil Pengujian
 
-| No | Data Uji | Output Program | Status |
+| No | Data Uji | Output Program | Hasil |
 |----|-----------|---------------|---------|
 | 1 | PKM, 4 dokumen, lolos pendanaan | Berhak menerima dana | Sesuai |
 | 2 | BAKORMA, 2 dokumen, Juara 1 | Dokumen tidak lengkap | Sesuai |
