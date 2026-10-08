@@ -24,6 +24,7 @@ Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan
 ## Repository dan File yang Diuji
 
 - Repository : https://github.com/madewika/ForCollab
+- File : https://github.com/madewika/ForCollab/blob/main/src/collabReyhan_StudiKasus2.java
 
 ## Hasil Pengujian
 
