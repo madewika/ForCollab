@@ -1,6 +1,8 @@
-# Hasil Modisikasi Studi Kasus 2
+# Hasil Modifikasi Studi Kasus 2
 Nilai P = 13 (Ganjil)
+
 Jika P GENAP: jenis kegiatan = "BELMAWA", dokumen = 4, peringkat juara = (P mod 3) + 1. 
+
 Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan = 1 (Lolos).
 
 - Jenis Kegiatan = PKM
@@ -22,11 +24,10 @@ Jika P GANJIL: jenis kegiatan = "PKM", Dokumen = 2 + (P mod 3), Status pendanaan
 ## Repository dan File yang Diuji
 
 - Repository : https://github.com/madewika/ForCollab
-- File : https://github.com/madewika/ForCollab/blob/main/src/collabReyhan_StudiKasus2.java
 
 ## Hasil Pengujian
 
-| No | Data Uji | Output Program | Hasil |
+| No | Data yang diuji | Output Program | Hasil |
 |----|-----------|---------------|---------|
 | 1 | PKM, 4 dokumen, lolos pendanaan | Berhak menerima dana | Sesuai |
 | 2 | BAKORMA, 2 dokumen, Juara 1 | Dokumen tidak lengkap | Sesuai |
